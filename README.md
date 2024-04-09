@@ -10,6 +10,8 @@ python-oauth2 is a python oauth library fully compatible with python versions: 2
 You can install `oauth2` via [the PIP package](https://pypi.python.org/pypi/oauth2). 
 
     $ pip install oauth2
+
+See package name for your system package manager at [Repology](https://repology.org/project/python:oauth2/versions).
     
 We recommend using [virtualenv](https://virtualenv.pypa.io/en/latest/).
 
